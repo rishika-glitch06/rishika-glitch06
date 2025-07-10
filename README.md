@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishika Kumari</h1>
-<h2 align="center">B.Tech CSE (Data Science) | Passionate about Tech</h2>
+<h1 align="center">B.Tech CSE (Data Science) | Passionate about Tech</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="girl coding gif" />
