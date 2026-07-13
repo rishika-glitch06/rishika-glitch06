@@ -1,164 +1,145 @@
-# Rishika Kumari
+# Hi, I'm Rishika Kumari 👋
 
-**BTech CSE (Data Science) '28 | Gautam Buddha University**  
-Machine Learning • Data Analytics • Explainable AI • Software Developer
+**B.Tech CSE (Data Science) '28 @ Gautam Buddha University**
 
-Building intelligent systems through data-driven insights and interpretable ML models.
+*Machine Learning • Explainable AI • Data Analytics • Software Development*
 
----
-
-## Tech Stack
-
-**Languages:** Python • C++ • C • Java • JavaScript • SQL
-
-**ML & Data:** Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib • Streamlit • Flask • Plotly • Tableau
-
-**Core CS:** Data Structures & Algorithms • Operating Systems • Networking • DBMS
+I'm passionate about building practical AI solutions and exploring **Explainable AI (XAI)** to make machine learning models more transparent and trustworthy. I enjoy turning ideas into real-world applications through research, projects, and continuous learning.
 
 ---
 
-## 📊 Data Science Projects
+## 💻 Tech Stack
 
-### Power BI: Money Heist Analytics Dashboard
-Interactive analytics dashboard analyzing episode data, ratings, and viewership trends.
+**Languages**
+Python • C++ • C • Java • JavaScript • SQL
 
-- Data visualization & trend analysis
-- Real-time metrics dashboard
-- **Tech:** Power BI, SQL
+**AI & Data**
+Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib • Streamlit • Flask • Plotly • Power BI • Tableau
 
-### AI Adoption in Global Companies Dashboard
-Comprehensive analysis of AI adoption, maturity scores, and business impact across industries.
+**Core CS**
+Data Structures & Algorithms • Operating Systems • Computer Networks • DBMS • OOP
 
-- Global dataset analysis and visualization
-- Business intelligence metrics
-- **Tech:** Python, Pandas, Power BI | **[GitHub](https://github.com/rishika-glitch06/AI-Adoption-Global-Companies-Dashboard)**
+**Tools**
+Git • GitHub • Linux • VS Code • Jupyter Notebook
 
 ---
 
-## 🤖 Machine Learning Projects
+## 🚀 Featured Projects
 
-### Customer Churn Prediction
-ML model predicting customer churn with feature importance analysis and business recommendations.
+### 🔍 German Credit Risk Explainability Dashboard
 
-- Classification model with multiple algorithms
-- Feature importance & model interpretation
-- Performance evaluation and optimization
-- **Tech:** Python, Scikit-learn, Pandas | **[GitHub](https://github.com/rishika-glitch06/customer-churn-prediction-ml)**
+An Explainable AI application that predicts credit risk using **XGBoost** with **SHAP-based model explanations** and interactive visualizations.
 
-### House Price Prediction
-Linear regression model for property price prediction with comprehensive statistical analysis.
-
-- Linear regression with R² optimization
-- Feature analysis & model evaluation
-- Real-world dataset handling
-- **Tech:** Python, Scikit-learn, Numpy | **[GitHub](https://github.com/rishika-glitch06/house-price-prediction-ml)**
+**Tech:** Python, XGBoost, SHAP, Streamlit, Plotly
 
 ---
 
-## 🔍 Explainable AI Projects
+### 🧠 XAI Taxonomy Explorer
 
-### German Credit Risk Explainability Dashboard
-Explainable AI system predicting credit risk with transparent model interpretations.
+A research-oriented platform for exploring Explainable AI techniques through interactive taxonomy and graph visualizations.
 
-- XGBoost classifier for credit prediction
-- SHAP values for model explainability
-- Interactive feature importance visualization
-- Stakeholder-friendly insights
-- **Tech:** Python, XGBoost, SHAP, Streamlit, Plotly
-
-### XAI Taxonomy Explorer
-Research platform mapping and exploring Explainable AI techniques through interactive visualization.
-
-- Taxonomy design for XAI methods
-- Graph-based knowledge exploration
-- Research-oriented architecture
-- **Tech:** Python, Streamlit, Plotly, NetworkX
+**Tech:** Python, Streamlit, Plotly, NetworkX
 
 ---
 
-## 💻 Frontend Projects
+### 🤖 FeatureInsight AI
 
-### VibeScape
-AI-powered moodboard platform for organizing creative ideas and inspirations.
+A machine learning dashboard for dataset upload, model training, performance evaluation, and feature importance visualization.
 
-- Responsive web interface design
-- Interactive UI/UX
-- Modern frontend architecture
-- **Tech:** HTML, CSS, JavaScript
+**Tech:** Python, Flask, Scikit-learn, Plotly
 
-### Terminal Chat Application
-Command-line chat application with socket programming.
+---
 
-- Real-time messaging system
-- Network communication
-- **Tech:** Python
+### 📊 Customer Churn Prediction
+
+A classification model that predicts customer churn and identifies key business factors influencing customer retention.
+
+**Tech:** Python, Scikit-learn, Pandas
+
+---
+
+### 🏠 House Price Prediction
+
+A regression model for estimating property prices with feature analysis and performance evaluation.
+
+**Tech:** Python, Scikit-learn, NumPy
 
 ---
 
 ## 💼 Experience
 
-**Intern** — Reliance Power Limited  
-*Jun 2026 - Present | Shahjahanpur, UP*
-- Enterprise Linux administration & LVM
-- System configuration & cybersecurity fundamentals
+### Linux & Network Administration Intern
 
-**Data Analysis Intern** — Codveda Technologies  
-*Aug - Sep 2025 | Remote*
-- Data analysis & visualization
-- Real-world analytics applications
-- Skills: Data Analysis, Data Visualization
+**Reliance Power Limited** *(Jun 2026 – Present)*
 
-**HR Recruiter Intern** — Optifusion Technologies  
-*Jul - Aug 2025 | Remote*
-- Candidate sourcing and recruitment
-- Skills: Digital Marketing, Social Media Marketing
+* Enterprise Linux administration
+* Logical Volume Management (LVM)
+* Networking & cybersecurity fundamentals
 
 ---
 
-## 🏆 Achievements & Programs
+### Data Analysis Intern
 
-**GirlScript Summer of Code 2025** — Open Source Contributor  
-*11 months ago | Technical Contributor*
+**Codveda Technologies** *(Aug – Sep 2025)*
 
-**Aspire by Harvard Business School** — Cohort 5 Selected  
-*9 months ago | Leadership Program*
+* Data analysis and visualization
+* Business insights using Python and Power BI
 
-**Stanford Code in Place** — Online Coding Course  
-*1 year ago | Python & Web Development*
+---
 
-**Product Matters 5.0** — IIT Guwahati Program  
-*1 year ago | Product Strategy & Design*
+### HR Recruiter Intern
 
-**GDG On Campus GBU** — Core Team Member  
-*Oct 2025 - Present*
+**Optifusion Technologies** *(Jul – Aug 2025)*
 
-**Internshala Student Partner** — Campus Ambassador  
-*Jul - Oct 2025*
+* Candidate sourcing and recruitment
+* Employer branding and communication
 
-**Vyomveda (SKYSCOPE)** — Chief Information Officer  
-*Jul 2025 - Present*
+---
+
+### Core Team Member
+
+**GDG On Campus GBU** *(Oct 2025 – Present)*
+
+---
+
+### Chief Information Officer
+
+**Vyomveda (SKYSCOPE)** *(Jul 2025 – Present)*
+
+---
+
+### Campus Ambassador
+
+**Internshala Student Partner** *(Jul – Oct 2025)*
 
 ---
 
 ## 🔬 Research Interests
 
-Explainable AI • Trustworthy & Responsible AI • Model Interpretability • SHAP Values • Feature Importance • ML for Social Impact
+* Explainable Artificial Intelligence (XAI)
+* Trustworthy & Responsible AI
+* Model Interpretability
+* Machine Learning
+* AI for Social Impact
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
-Advanced ML • Agentic AI • Retrieval-Augmented Generation • Docker & Kubernetes • Cloud Computing • MLOps
-
----
-
-## Connect
-
-💼 **LinkedIn:** [linkedin.com/in/rishika-kumari-97365028a](https://www.linkedin.com/in/rishika-kumari-97365028a)  
-🐙 **GitHub:** [github.com/rishika-glitch06](https://github.com/rishika-glitch06)  
-📧 **Email:** rishikakumari4444@gmail.com  
-🐦 **Twitter:** [@rishika_kumari0](https://x.com/rishika_kumari0)
+Agentic AI • Retrieval-Augmented Generation (RAG) • Docker • Kubernetes • Cloud Computing • MLOps
 
 ---
 
-*Building the future of interpretable, trustworthy AI* 🚀
+## 📫 Connect
+
+💼 LinkedIn: linkedin.com/in/rishika-kumari-97365028a
+
+🐙 GitHub: github.com/rishika-glitch06
+
+📧 [rishikakumari4444@gmail.com](mailto:rishikakumari4444@gmail.com)
+
+🐦 X (Twitter): @rishika_kumari0
+
+---
+
+*"Building intelligent systems that are not only accurate, but also transparent and trustworthy."*
