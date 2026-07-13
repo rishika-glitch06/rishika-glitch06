@@ -46,21 +46,21 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
 
 ## Experience
 
-**Linux & Network Administration Intern — Reliance Power Limited**
+=**Linux & Network Administration Intern — Reliance Power Limited**
 
 - Worked on Linux system administration and Logical Volume Management (LVM).
 - Gained hands-on experience in networking and cybersecurity fundamentals.
 
-**Data Analysis Intern — Codveda Technologies**
+=**Data Analysis Intern — Codveda Technologies**
 
 - Worked on data analysis and visualization.
 - Built dashboards and generated business insights using Python and Power BI.
 
-**Chief Information Officer — Vyomveda (SKYSCOPE)**
+=**Chief Information Officer — Vyomveda (SKYSCOPE)**
 
 - Leading technical initiatives and managing digital operations.
 
-**Core Team Member — GDG On Campus GBU**
+=**Core Team Member — GDG On Campus GBU**
 
 - Contributing to technical events, workshops, and developer community activities.
 
