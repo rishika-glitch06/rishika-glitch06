@@ -6,7 +6,7 @@ Machine Learning | Explainable AI | Data Analytics | Software Development
 
 I'm a Computer Science undergraduate with hands-on experience in Machine Learning, Data Analytics, and Explainable AI. I enjoy building AI-powered applications, exploring research, and solving real-world problems through technology.
 
-## Interests
+### Interests
 
 - Machine Learning & AI Research
 - Explainable Artificial Intelligence (XAI)
@@ -15,14 +15,14 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
 - Open Source
 - Linux & DevOps
 
-## Tech Stack
+### Tech Stack
 
 - **Languages:** Python, C, C++, Java, JavaScript, SQL
 - **ML & Data:** Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Streamlit, Flask, Plotly
 - **Core CS:** Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, OOP
 - **Tools:** Git, GitHub, Linux, Jupyter Notebook, Power BI, Tableau
 
-## Projects
+### Projects
 
 - **German Credit Risk Explainability Dashboard**
   - Explainable AI dashboard for credit risk prediction using XGBoost and SHAP.
@@ -44,7 +44,7 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
   - Regression model for estimating house prices using machine learning.
   - Tech Stack: Python, Scikit-learn, NumPy
 
-## Experience
+### Experience
 
 =**Linux & Network Administration Intern — Reliance Power Limited**
 
@@ -64,7 +64,7 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
 
 - Contributing to technical events, workshops, and developer community activities.
 
-## Research Interests
+### Research Interests
 
 - Explainable Artificial Intelligence (XAI)
 - Model Interpretability
