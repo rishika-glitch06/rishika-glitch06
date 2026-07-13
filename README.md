@@ -35,6 +35,7 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
 - **FeatureInsight AI**
   - Machine learning dashboard for model training, evaluation, and feature importance analysis.
   - Tech Stack: Python, Flask, Scikit-learn, Plotly
+  - https://github.com/rishika-glitch06/FeatureInsightAI
 
 - **Customer Churn Prediction**
   - Classification model for predicting customer churn and customer retention.
