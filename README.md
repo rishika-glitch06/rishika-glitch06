@@ -27,7 +27,8 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
 - **German Credit Risk Explainability Dashboard**
   - Explainable AI dashboard for credit risk prediction using XGBoost and SHAP.
   - Tech Stack: Python, XGBoost, SHAP, Streamlit, Plotly
-
+  - https://github.com/rishika-glitch06/xai-credit-risk-dashboard
+    
 - **XAI Taxonomy Explorer**
   - Interactive platform for exploring Explainable AI techniques through taxonomy visualization.
   - Tech Stack: Python, Streamlit, Plotly, NetworkX
