@@ -1,84 +1,164 @@
 # Rishika Kumari
 
-**B.Tech Computer Science (Data Science) @ [University Name]**  
-Machine Learning | Data Analytics | Explainable AI | Software Developer
+**BTech CSE (Data Science) '28 | Gautam Buddha University**  
+Machine Learning • Data Analytics • Explainable AI • Software Developer
 
-Passionate about building interpretable machine learning systems and data-driven solutions. I enjoy solving complex problems through data analysis, modeling, and research.
+Building intelligent systems through data-driven insights and interpretable ML models.
 
 ---
 
 ## Tech Stack
 
-Python • C++ • C • Java • JavaScript • SQL • HTML • CSS
+**Languages:** Python • C++ • C • Java • JavaScript • SQL
 
-Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib • Streamlit • Flask • Plotly • Tableau
+**ML & Data:** Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib • Streamlit • Flask • Plotly • Tableau
 
-Data Structures & Algorithms • Operating Systems • Computer Networks • DBMS • OOPS
-
----
-
-## Featured Projects
-
-### 🔍 German Credit Risk Explainability Dashboard
-Explainable AI system that predicts credit risk while making model decisions transparent and interpretable to stakeholders.
-
-- Trained and optimized XGBoost classifier for credit risk prediction on real-world dataset
-- Implemented SHAP (SHapley Additive exPlanations) values for model-agnostic explainability
-- Built interactive dashboard showing global & instance-level feature importance
-- Provided actionable insights for credit decisions
-- **Tech:** Python, XGBoost, SHAP, Streamlit, Plotly | **[GitHub](link)**
-
-### 🤖 FeatureInsight AI
-End-to-end ML application that enables users to train, evaluate, and understand classification models through comprehensive analysis.
-
-- Developed full ML pipeline: data upload → preprocessing → model training → evaluation
-- Supports multiple algorithms with automatic hyperparameter tuning
-- Generates performance metrics: Accuracy, Precision, Recall, F1-score with confusion matrices
-- Interactive feature importance visualization and analysis
-- Automated PDF report generation for model documentation
-- **Tech:** Python, Flask, Scikit-learn, Plotly | **[GitHub](link)**
-
-### 🧠 XAI Taxonomy Explorer
-Research platform for exploring and understanding Explainable AI methods through interactive visualization.
-
-- Designed taxonomy mapping XAI techniques and their applications
-- Built interactive graph-based exploration of explainability methods
-- Organized research-oriented content structure for knowledge discovery
-- Dynamic categorization of different XAI approaches
-- **Tech:** Python, Streamlit, Plotly, NetworkX | **[GitHub](link)**
+**Core CS:** Data Structures & Algorithms • Operating Systems • Networking • DBMS
 
 ---
 
-## Experience
+## 📊 Data Science Projects
 
-**Linux & Network Administration Intern** — Reliance Power Limited
-- Enterprise Linux system administration and Logical Volume Management (LVM)
-- User and permission management in production environment
-- Networking fundamentals and system configuration
-- Cybersecurity fundamentals
+### Power BI: Money Heist Analytics Dashboard
+Interactive analytics dashboard analyzing episode data, ratings, and viewership trends.
+
+- Data visualization & trend analysis
+- Real-time metrics dashboard
+- **Tech:** Power BI, SQL
+
+### AI Adoption in Global Companies Dashboard
+Comprehensive analysis of AI adoption, maturity scores, and business impact across industries.
+
+- Global dataset analysis and visualization
+- Business intelligence metrics
+- **Tech:** Python, Pandas, Power BI | **[GitHub](https://github.com/rishika-glitch06/AI-Adoption-Global-Companies-Dashboard)**
 
 ---
 
-## Research Interests
+## 🤖 Machine Learning Projects
 
-Explainable Artificial Intelligence (XAI) • Trustworthy & Responsible AI • Model Interpretability • ML for Real-World Applications
+### Customer Churn Prediction
+ML model predicting customer churn with feature importance analysis and business recommendations.
 
-Currently exploring SHAP, feature importance analysis, and interpretable machine learning models to improve transparency and trust in AI systems.
+- Classification model with multiple algorithms
+- Feature importance & model interpretation
+- Performance evaluation and optimization
+- **Tech:** Python, Scikit-learn, Pandas | **[GitHub](https://github.com/rishika-glitch06/customer-churn-prediction-ml)**
+
+### House Price Prediction
+Linear regression model for property price prediction with comprehensive statistical analysis.
+
+- Linear regression with R² optimization
+- Feature analysis & model evaluation
+- Real-world dataset handling
+- **Tech:** Python, Scikit-learn, Numpy | **[GitHub](https://github.com/rishika-glitch06/house-price-prediction-ml)**
 
 ---
 
-## Currently Learning
+## 🔍 Explainable AI Projects
 
-Advanced Machine Learning • Agentic AI • Retrieval-Augmented Generation (RAG) • Docker & Kubernetes • DevOps • Cloud Computing • MLOps
+### German Credit Risk Explainability Dashboard
+Explainable AI system predicting credit risk with transparent model interpretations.
+
+- XGBoost classifier for credit prediction
+- SHAP values for model explainability
+- Interactive feature importance visualization
+- Stakeholder-friendly insights
+- **Tech:** Python, XGBoost, SHAP, Streamlit, Plotly
+
+### XAI Taxonomy Explorer
+Research platform mapping and exploring Explainable AI techniques through interactive visualization.
+
+- Taxonomy design for XAI methods
+- Graph-based knowledge exploration
+- Research-oriented architecture
+- **Tech:** Python, Streamlit, Plotly, NetworkX
+
+---
+
+## 💻 Frontend Projects
+
+### VibeScape
+AI-powered moodboard platform for organizing creative ideas and inspirations.
+
+- Responsive web interface design
+- Interactive UI/UX
+- Modern frontend architecture
+- **Tech:** HTML, CSS, JavaScript
+
+### Terminal Chat Application
+Command-line chat application with socket programming.
+
+- Real-time messaging system
+- Network communication
+- **Tech:** Python
+
+---
+
+## 💼 Experience
+
+**Intern** — Reliance Power Limited  
+*Jun 2026 - Present | Shahjahanpur, UP*
+- Enterprise Linux administration & LVM
+- System configuration & cybersecurity fundamentals
+
+**Data Analysis Intern** — Codveda Technologies  
+*Aug - Sep 2025 | Remote*
+- Data analysis & visualization
+- Real-world analytics applications
+- Skills: Data Analysis, Data Visualization
+
+**HR Recruiter Intern** — Optifusion Technologies  
+*Jul - Aug 2025 | Remote*
+- Candidate sourcing and recruitment
+- Skills: Digital Marketing, Social Media Marketing
+
+---
+
+## 🏆 Achievements & Programs
+
+**GirlScript Summer of Code 2025** — Open Source Contributor  
+*11 months ago | Technical Contributor*
+
+**Aspire by Harvard Business School** — Cohort 5 Selected  
+*9 months ago | Leadership Program*
+
+**Stanford Code in Place** — Online Coding Course  
+*1 year ago | Python & Web Development*
+
+**Product Matters 5.0** — IIT Guwahati Program  
+*1 year ago | Product Strategy & Design*
+
+**GDG On Campus GBU** — Core Team Member  
+*Oct 2025 - Present*
+
+**Internshala Student Partner** — Campus Ambassador  
+*Jul - Oct 2025*
+
+**Vyomveda (SKYSCOPE)** — Chief Information Officer  
+*Jul 2025 - Present*
+
+---
+
+## 🔬 Research Interests
+
+Explainable AI • Trustworthy & Responsible AI • Model Interpretability • SHAP Values • Feature Importance • ML for Social Impact
+
+---
+
+## 📚 Currently Learning
+
+Advanced ML • Agentic AI • Retrieval-Augmented Generation • Docker & Kubernetes • Cloud Computing • MLOps
 
 ---
 
 ## Connect
 
-📧 Email: [your-email@example.com]  
-💼 LinkedIn: [linkedin.com/in/your-profile]  
-🐙 GitHub: [github.com/rishika-glitch06]
+💼 **LinkedIn:** [linkedin.com/in/rishika-kumari-97365028a](https://www.linkedin.com/in/rishika-kumari-97365028a)  
+🐙 **GitHub:** [github.com/rishika-glitch06](https://github.com/rishika-glitch06)  
+📧 **Email:** rishikakumari4444@gmail.com  
+🐦 **Twitter:** [@rishika_kumari0](https://x.com/rishika_kumari0)
 
 ---
 
-*"Turning ideas into intelligent solutions through research, code, and continuous learning."* 🚀
+*Building the future of interpretable, trustworthy AI* 🚀
