@@ -1,229 +1,245 @@
-# Rishika Kumari
+# Hi there, I'm Rishika Kumari 👋
+
+<h3 align="center">AI & Machine Learning Enthusiast • Explainable AI Research • Software Developer</h3>
 
 <p align="center">
-  <strong>AI/ML Engineer | Explainable AI (XAI) Researcher | Open Source Contributor</strong>
-</p>
-
-<p align="center">
-  <em>Building trustworthy AI systems through interpretability and transparency</em>
+Building intelligent systems, exploring AI research, and continuously learning through real-world projects.
 </p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a B.Tech Computer Science (Data Science) student passionate about developing AI systems that are not only accurate but also interpretable and trustworthy. I believe the future of AI lies in bridging the gap between model complexity and human understanding through Explainable AI.
+I'm a **B.Tech Computer Science (Data Science)** student passionate about **Artificial Intelligence, Machine Learning, Explainable AI (XAI), and Software Development**.
 
-My approach: **Learn by building.** I combine theoretical research with hands-on engineering to create AI solutions that solve real-world problems while maintaining transparency and accountability.
+I enjoy building projects that solve real-world problems while exploring the research behind them. My current focus is on developing interpretable machine learning systems, strengthening my software engineering skills, and contributing to open-source projects.
+
+I'm always eager to learn new technologies, collaborate on innovative ideas, and challenge myself through hackathons and research opportunities.
 
 ---
 
-## Focus Areas
+## 🔬 Research Interests
 
-**Core Research Interest**: Explainable Artificial Intelligence (XAI)
-- Interpretability techniques (SHAP, LIME, Feature Importance)
+- Explainable Artificial Intelligence (XAI)
 - Trustworthy & Responsible AI
-- Model Explainability & Transparency
-- Ethical AI Systems
+- Machine Learning
+- Model Interpretability
+- AI for Real-World Applications
+- Data Science
 
-**Technical Development**:
-- Machine Learning & Deep Learning
-- Data Science & Analytics
-- AI-Powered Applications
-- DevOps & Cloud Infrastructure
-
-**Learning & Exploration**:
-- Linux System Administration
-- Agentic AI & LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- Docker & Kubernetes
-- Open Source Contribution
+Currently exploring methods like **SHAP**, feature importance analysis, and interpretable machine learning models to improve transparency and trust in AI systems.
 
 ---
 
-## Featured Projects
-
-### 🎯 **German Credit Risk Explainability Dashboard**
-An end-to-end explainable AI system that predicts credit risk while providing transparent, actionable explanations to stakeholders.
-
-**What I Built**:
-- Trained and optimized XGBoost classifier for credit risk prediction
-- Implemented SHAP (SHapley Additive exPlanations) for model-agnostic explainability
-- Built interactive Streamlit dashboard for real-time predictions and feature analysis
-- Created visualizations showing global & instance-level feature importance
-
-**Tech Stack**: Python, XGBoost, SHAP, Streamlit, Pandas, Scikit-Learn
-
-**Key Learning**: Converting complex ML models into tools stakeholders can trust and understand
-
----
-
-### 🧠 **XAI Taxonomy Explorer**
-An interactive knowledge platform for exploring and understanding the landscape of Explainable AI techniques.
-
-**What I Built**:
-- Designed taxonomy mapping relationships between XAI methods and their applications
-- Developed graph-based visualization for exploring technique hierarchies
-- Created interactive network interface for discovering connections
-- Organized research-focused content structure
-
-**Tech Stack**: JavaScript, D3.js/Graph Visualization, React, HTML/CSS
-
-**Key Learning**: Making complex research concepts accessible through thoughtful visualization
-
----
-
-### 🤖 **FeatureInsight AI**
-A machine learning web application that empowers users to build, train, and understand classification models through automated feature importance analysis.
-
-**What I Built**:
-- Developed full-stack ML pipeline (data upload → model training → evaluation)
-- Integrated multiple classification algorithms with hyperparameter tuning
-- Created interactive visualizations (confusion matrices, ROC curves, feature importance)
-- Built performance metrics dashboard with real-time model insights
-
-**Features**:
-- Automated data preprocessing & validation
-- Model training with multiple algorithms
-- Comprehensive performance evaluation
-- Feature importance & interpretability analysis
-- Interactive prediction interface
-
-**Tech Stack**: Python, Flask, Scikit-Learn, Matplotlib, Seaborn, HTML/CSS/JavaScript
-
-**Key Learning**: End-to-end ML system design with focus on interpretability
-
----
-
-### 🩺 **HealthAI**
-An AI-powered healthcare platform focused on women's wellness, integrating personalized recommendations with culturally-informed guidance.
-
-**What I Built**:
-- Designed intelligent recommendation engine for personalized health insights
-- Implemented AI chatbot for health-related queries and support
-- Developed cycle tracking system with predictive analytics
-- Integrated Ayurveda-inspired wellness recommendations
-
-**Features**:
-- Personalized health recommendations
-- AI-powered conversational assistant
-- Health data tracking & analytics
-- Holistic wellness guidance combining modern AI with traditional practices
-
-**Tech Stack**: Python, NLP, Machine Learning, Streamlit, Database Design
-
-**Key Learning**: Building responsible AI systems that respect cultural context and user privacy
-
----
-
-### 🐧 **Linux Quest**
-A comprehensive, hands-on learning repository documenting my Linux systems journey through structured notes, practical labs, and real-world exercises.
-
-**Contents**:
-- Linux Fundamentals & Architecture
-- File Systems & Permissions
-- User & Group Management
-- Networking & TCP/IP
-- Shell Scripting & Automation
-- Security Hardening
-- System Administration Best Practices
-
-**Philosophy**: Consistency > Perfection. Building deep systems knowledge through daily practice.
-
-**Tech Stack**: Linux, Bash, Git
-
----
-
-## Technical Skills
+# 💻 Tech Stack
 
 ### Languages
-Python • C++ • C • Java • JavaScript • HTML/CSS • Bash
 
-### AI/ML Tools & Frameworks
-- **ML Libraries**: Scikit-Learn, XGBoost, Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn, Plotly, SHAP
-- **Deep Learning**: TensorFlow, PyTorch (learning)
-- **Explainability**: SHAP, LIME, Feature Importance
-- **Web Frameworks**: Streamlit, Flask
-- **NLP**: NLTK, SpaCy (exploring)
+- Python
+- C++
+- C
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
 
-### Developer Tools
-Git & GitHub • Linux • VS Code • Jupyter Notebook • Docker (learning)
+### AI & Machine Learning
 
-### Data & Analytics
-Power BI • Tableau • Statistical Analysis • Data Visualization
+- Scikit-learn
+- XGBoost
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
 
----
+### Core Computer Science
 
-## Currently Learning
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- DBMS
+- Object-Oriented Programming
 
-- **Advanced Linux Administration** - Deepen systems knowledge
-- **DevOps Practices** - Docker, Kubernetes, CI/CD
-- **Agentic AI** - Building intelligent autonomous systems
-- **LLM Applications** - Prompt engineering, RAG systems
-- **Advanced Deep Learning** - Neural architecture design
-- **Cloud Computing** - AWS/GCP fundamentals
+### Tools & Technologies
 
----
-
-## 2026 Goals
-
-✓ Build production-ready AI projects with focus on explainability  
-✓ Publish first research paper in XAI domain  
-✓ Contribute consistently to high-impact open source projects  
-✓ Secure AI/ML Research Internship  
-✓ Master Linux & DevOps fundamentals  
-✓ Stay curious. Build consistently. Learn endlessly.  
-
----
-
-## What Drives Me
-
-- 📖 Reading cutting-edge AI research papers
-- 🏆 Hackathons & competitive problem-solving
-- 🤝 Collaborating with researchers & developers
-- 🔬 Translating theory into practical solutions
-- 💡 Building projects that create real impact
-- 🌱 Growing alongside the tech community
+- Git
+- GitHub
+- Linux
+- Flask
+- VS Code
+- Jupyter Notebook
+- Tableau
+- Power BI
 
 ---
 
-## GitHub Statistics
+# 🚀 Featured Projects
+
+## 🔍 German Credit Risk Explainability Dashboard
+
+An Explainable AI dashboard that predicts credit risk while providing transparent explanations using SHAP values and interactive visualizations.
+
+**Tech Stack**
+
+Python • XGBoost • SHAP • Streamlit • Plotly
+
+**Highlights**
+
+- Credit risk prediction
+- SHAP explainability
+- Feature importance visualization
+- Interactive dashboard
+- Model performance evaluation
+
+---
+
+## 🧠 XAI Taxonomy Explorer
+
+A research-oriented platform for exploring Explainable AI methods through interactive taxonomy graphs and knowledge visualization.
+
+**Tech Stack**
+
+Python • Streamlit • Plotly • NetworkX
+
+**Highlights**
+
+- Interactive taxonomy explorer
+- Research-focused visualization
+- Dynamic graph representation
+- Explainability method categorization
+
+---
+
+## 🤖 FeatureInsight AI
+
+A machine learning web application that allows users to upload datasets, train classification models, evaluate performance, and visualize feature importance.
+
+**Tech Stack**
+
+Python • Flask • Scikit-learn • Plotly
+
+**Features**
+
+- Dataset upload
+- Model training
+- Accuracy, Precision, Recall & F1-score
+- Feature Importance Graph
+- Confusion Matrix
+- Interactive Visualizations
+- PDF Report Generation
+
+---
+
+## 🩺 HealthAI
+
+An AI-powered healthcare platform focused on women's wellness with intelligent health guidance and wellness tracking.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+**Highlights**
+
+- AI health assistant
+- Menstrual cycle tracker
+- Personalized wellness recommendations
+- Responsive user interface
+
+---
+
+## 🎨 VibeScape
+
+A modern AI-inspired moodboard platform that enables users to organize creative ideas, inspirations, and visual content through an elegant interface.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+**Highlights**
+
+- Responsive frontend
+- Interactive UI
+- Modern web design
+- Clean user experience
+
+---
+
+# 💼 Experience
+
+### Linux & Network Administration Intern
+**Reliance Power Limited**
+
+- Worked with Linux system administration in an enterprise environment.
+- Gained hands-on experience with Logical Volume Management (LVM).
+- Learned user and permission management.
+- Explored networking fundamentals and system configuration.
+- Acquired foundational knowledge of cybersecurity concepts.
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Explainable AI (XAI)
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Docker
+- Kubernetes
+- DevOps
+- Cloud Computing
+- MLOps
+
+---
+
+# 🎯 2026 Goals
+
+- 📄 Publish my first AI research paper
+- 🚀 Build production-ready AI applications
+- 🤝 Contribute to Open Source
+- 💡 Participate in national-level Hackathons
+- 🔬 Secure an AI/ML Research Internship
+- ☁️ Strengthen DevOps & Cloud skills
+- 📚 Continue learning every day
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishika-glitch06&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishika-glitch06&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishika-glitch06&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishika-glitch06&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-glitch06&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-glitch06&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## Let's Connect & Collaborate
+# 🤝 Let's Connect
 
-I'm always interested in:
+I'm always open to collaborating on:
 
-- 🔬 Research collaborations in Explainable AI
-- 🌍 Open source projects with impact
-- 💼 ML/AI internships & career opportunities
-- 🤝 Hackathons & competitive events
-- 💬 Technical discussions & knowledge sharing
-- 📊 Building data-driven solutions
+- 🤖 AI & Machine Learning Projects
+- 🔬 Research Collaborations
+- 🌍 Open Source Contributions
+- 💻 Software Development
+- 🏆 Hackathons
+- 💡 Innovative Tech Projects
 
-<p align="center">
-  <a href="https://github.com/rishika-glitch06">GitHub</a> • 
-  <a href="https://linkedin.com/in/rishika-kumari">LinkedIn</a> • 
-  <a href="https://twitter.com/rishika_codes">Twitter</a>
-</p>
+📧 **Email:** your-email@example.com
+
+💼 **LinkedIn:** https://linkedin.com/in/your-profile
+
+🐙 **GitHub:** https://github.com/rishika-glitch06
+
+🌐 **Portfolio:** Coming Soon
 
 ---
 
 <p align="center">
-  <strong>"Stay curious. Build consistently. Learn endlessly."</strong> 🚀
-</p>
+  
+### *"Turning ideas into intelligent solutions through research, code, and continuous learning."* 🚀
 
-<p align="center">
-  <sub>Last updated: 2026</sub>
 </p>
