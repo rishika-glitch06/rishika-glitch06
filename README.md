@@ -39,7 +39,8 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
 - **Customer Churn Prediction**
   - Classification model for predicting customer churn and customer retention.
   - Tech Stack: Python, Scikit-learn, Pandas
-
+  - https://github.com/rishika-glitch06/customer-churn-prediction-ml
+    
 - **House Price Prediction**
   - Regression model for estimating house prices using machine learning.
   - Tech Stack: Python, Scikit-learn, NumPy
