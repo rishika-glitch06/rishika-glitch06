@@ -1,145 +1,116 @@
 # Hi, I'm Rishika Kumari 👋
 
-**B.Tech CSE (Data Science) '28 @ Gautam Buddha University**
+**B.Tech Computer Science (Data Science) @ Gautam Buddha University**
 
 *Machine Learning • Explainable AI • Data Analytics • Software Development*
 
-I'm passionate about building practical AI solutions and exploring **Explainable AI (XAI)** to make machine learning models more transparent and trustworthy. I enjoy turning ideas into real-world applications through research, projects, and continuous learning.
+I'm a Computer Science undergraduate passionate about building intelligent systems using Machine Learning and Data Science. My current interests lie in **Explainable AI (XAI)**, where I explore ways to make machine learning models more transparent, trustworthy, and interpretable.
+
+I enjoy turning research ideas into practical applications, participating in hackathons, contributing to open source, and continuously learning new technologies.
+
+---
+
+## 🔬 Interests
+
+- Machine Learning & AI Research
+- Explainable Artificial Intelligence (XAI)
+- Data Analytics & Visualization
+- Software Development
+- Open Source
+- Linux & DevOps
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
+**Languages**  
 Python • C++ • C • Java • JavaScript • SQL
 
-**AI & Data**
+**AI & Data**  
 Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib • Streamlit • Flask • Plotly • Power BI • Tableau
 
-**Core CS**
-Data Structures & Algorithms • Operating Systems • Computer Networks • DBMS • OOP
+**Core CS**  
+Data Structures & Algorithms • Operating Systems • Computer Networks • DBMS • Object-Oriented Programming
 
-**Tools**
-Git • GitHub • Linux • VS Code • Jupyter Notebook
+**Tools**  
+Git • GitHub • Linux • Jupyter Notebook • VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔍 German Credit Risk Explainability Dashboard
-
-An Explainable AI application that predicts credit risk using **XGBoost** with **SHAP-based model explanations** and interactive visualizations.
-
-**Tech:** Python, XGBoost, SHAP, Streamlit, Plotly
-
----
+An Explainable AI application that predicts credit risk using XGBoost while providing SHAP-based explanations for transparent decision-making.
 
 ### 🧠 XAI Taxonomy Explorer
-
-A research-oriented platform for exploring Explainable AI techniques through interactive taxonomy and graph visualizations.
-
-**Tech:** Python, Streamlit, Plotly, NetworkX
-
----
+A research-focused platform for exploring Explainable AI techniques through interactive taxonomy and graph visualizations.
 
 ### 🤖 FeatureInsight AI
-
-A machine learning dashboard for dataset upload, model training, performance evaluation, and feature importance visualization.
-
-**Tech:** Python, Flask, Scikit-learn, Plotly
-
----
+A machine learning dashboard for dataset upload, model training, evaluation, feature importance analysis, and performance visualization.
 
 ### 📊 Customer Churn Prediction
-
-A classification model that predicts customer churn and identifies key business factors influencing customer retention.
-
-**Tech:** Python, Scikit-learn, Pandas
-
----
+A machine learning model that predicts customer churn and provides insights into the factors affecting customer retention.
 
 ### 🏠 House Price Prediction
-
-A regression model for estimating property prices with feature analysis and performance evaluation.
-
-**Tech:** Python, Scikit-learn, NumPy
+A regression model for predicting housing prices using real-world datasets and statistical analysis.
 
 ---
 
 ## 💼 Experience
 
 ### Linux & Network Administration Intern
+**Reliance Power Limited**
 
-**Reliance Power Limited** *(Jun 2026 – Present)*
-
-* Enterprise Linux administration
-* Logical Volume Management (LVM)
-* Networking & cybersecurity fundamentals
-
----
+Worked on Linux system administration, Logical Volume Management (LVM), networking, and cybersecurity fundamentals in an enterprise environment.
 
 ### Data Analysis Intern
+**Codveda Technologies**
 
-**Codveda Technologies** *(Aug – Sep 2025)*
-
-* Data analysis and visualization
-* Business insights using Python and Power BI
-
----
-
-### HR Recruiter Intern
-
-**Optifusion Technologies** *(Jul – Aug 2025)*
-
-* Candidate sourcing and recruitment
-* Employer branding and communication
-
----
-
-### Core Team Member
-
-**GDG On Campus GBU** *(Oct 2025 – Present)*
-
----
+Worked on data analysis, visualization, and business reporting using Python and Power BI.
 
 ### Chief Information Officer
+**Vyomveda (SKYSCOPE)**
 
-**Vyomveda (SKYSCOPE)** *(Jul 2025 – Present)*
+Leading technical initiatives and managing digital operations.
+
+### Core Team Member
+**GDG On Campus GBU**
+
+Contributing to technical events, workshops, and the student developer community.
 
 ---
 
-### Campus Ambassador
+## 🔬 Research
 
-**Internshala Student Partner** *(Jul – Oct 2025)*
+Currently exploring **Explainable Artificial Intelligence (XAI)** with a focus on:
 
----
+- Model Interpretability
+- SHAP Explainability
+- Trustworthy AI
+- Responsible AI
+- Explainable Machine Learning
 
-## 🔬 Research Interests
-
-* Explainable Artificial Intelligence (XAI)
-* Trustworthy & Responsible AI
-* Model Interpretability
-* Machine Learning
-* AI for Social Impact
+I'm particularly interested in building AI systems that are not only accurate but also transparent and reliable.
 
 ---
 
 ## 🌱 Currently Learning
 
-Agentic AI • Retrieval-Augmented Generation (RAG) • Docker • Kubernetes • Cloud Computing • MLOps
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Docker & Kubernetes
+- MLOps
+- Cloud Computing
 
 ---
 
 ## 📫 Connect
 
-💼 LinkedIn: linkedin.com/in/rishika-kumari-97365028a
-
-🐙 GitHub: github.com/rishika-glitch06
-
-📧 [rishikakumari4444@gmail.com](mailto:rishikakumari4444@gmail.com)
-
-🐦 X (Twitter): @rishika_kumari0
+- 💼 **LinkedIn:** www.linkedin.com/in/rishika-kumari-97365028a
+- 🐙 **GitHub:** github.com/rishika-glitch06
+- 📧 **Email:** rishikakumari4444@gmail.com
+- 💻 **LeetCode:** *(Coming Soon)*
 
 ---
 
-*"Building intelligent systems that are not only accurate, but also transparent and trustworthy."*
+> *"Building intelligent systems that people can understand, trust, and use."* 🚀
