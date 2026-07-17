@@ -24,6 +24,10 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
 
 ### Projects
 
+-**F1-Podium-Predictor-AI**
+ -Developed an end-to-end Machine Learning and Explainable AI application using XGBoost and SHAP to predict Formula 1 podium finishes with interpretable model insights and prediction confidence.
+ -Built an interactive Streamlit dashboard featuring real-time predictions, SHAP-based explainability, feature importance visualization, prediction history, PDF report generation, and CSV export using Python, Plotly, Pandas, and Scikit-learn.
+
 - **German Credit Risk Explainability Dashboard**
   - Explainable AI dashboard for credit risk prediction using XGBoost and SHAP.
   - Tech Stack: Python, XGBoost, SHAP, Streamlit, Plotly
