@@ -29,7 +29,7 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
   - End-to-end Explainable AI dashboard for Formula 1 podium prediction using XGBoost and SHAP.
   - Tech Stack: Python, XGBoost, SHAP, Streamlit, Plotly, Pandas, Scikit-learn
   - https://github.com/rishika-glitch06/F1-Podium-Predictor-AI
-  - 
+   
 - **German Credit Risk Explainability Dashboard**
   - Explainable AI dashboard for credit risk prediction using XGBoost and SHAP.
   - Tech Stack: Python, XGBoost, SHAP, Streamlit, Plotly
