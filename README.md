@@ -25,7 +25,6 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
 ### Projects
 
 - **F1 Podium Predictor AI**
-- # 🏎️ F1 Podium Predictor AI
 
   - End-to-end Explainable AI dashboard for Formula 1 podium prediction using XGBoost and SHAP.
   - Tech Stack: Python, XGBoost, SHAP, Streamlit, Plotly, Pandas, Scikit-learn
