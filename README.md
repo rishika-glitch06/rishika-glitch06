@@ -25,6 +25,13 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
 ### Projects
 
 - **F1 Podium Predictor AI**
+- # 🏎️ F1 Podium Predictor AI
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![XGBoost](https://img.shields.io/badge/XGBoost-Machine%20Learning-red?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/Explainable%20AI-SHAP-orange?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-success?style=for-the-badge&logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
   - End-to-end Explainable AI dashboard for Formula 1 podium prediction using XGBoost and SHAP.
   - Tech Stack: Python, XGBoost, SHAP, Streamlit, Plotly, Pandas, Scikit-learn
