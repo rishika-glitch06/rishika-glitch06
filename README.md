@@ -41,7 +41,8 @@ I'm a Computer Science undergraduate with hands-on experience in Machine Learnin
   - Interactive platform for exploring Explainable AI techniques through taxonomy visualization.
   - Tech Stack: Python, Streamlit, Plotly, NetworkX
   - https://github.com/rishika-glitch06/xai-taxonomy-explorer
-    
+  -  🚀 **Live Demo:** https://xai-taxonomy-explorer-27xhrgqnxveptunhvxsn4s.streamlit.app/
+
 - **FeatureInsight AI**
   - Machine learning dashboard for model training, evaluation, and feature importance analysis.
   - Tech Stack: Python, Flask, Scikit-learn, Plotly
